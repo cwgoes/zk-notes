@@ -178,7 +178,7 @@ Hard relation `R`, generator `G`, Sigma protocol `P`.
 
 *Commit*
 
-`Pr` runs `M on `x`, `e`, gets `(a, e, z)`, sends `a` to `Vr`.
+`Pr` runs `M` on `x`, `e`, gets `(a, e, z)`, sends `a` to `Vr`.
 
 *Open*
 
