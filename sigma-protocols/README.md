@@ -82,12 +82,6 @@ Notes:
 
 So we can choose the challenge length.
 
-### Proofs of knowledge
-
-(Damgard 3)
-
-Intuition: knowledge is ability to compute efficiently.
-
 ### OR-construction
 
 Given `x_0, x_1`, `Pr` wants to prove knowledge of `w` such that either `(x_0, w) <- R` or `(x_1, w) <- R` without revealing which is known.
